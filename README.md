@@ -1,5 +1,5 @@
 # Credit Card Default Prediction
-[Code]() | [Data]()
+[Code](https://github.com/SoumyaO/Credit-card-default-prediction/blob/main/CC%202.ipynb) | [Data](https://github.com/SoumyaO/Credit-card-default-prediction/tree/main/data)
 
 ## Description
 The goal of this project was to predict the likelihood of for a bank's customers and identify the key drivers that determine this likelihood. This information was then to be used to decide who to give credit to and what credit limit to approve. Additionally, it provided valuable insights into the bank's current and potential customers, guiding their future business strategies.
